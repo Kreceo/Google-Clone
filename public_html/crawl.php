@@ -23,7 +23,7 @@ function createLinks($src, $url)
     }
     
     return $src;
-}
+} 
 
 function getDetails($url) {
     $parser = new DomDocumentParser($url);
