@@ -14,6 +14,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="https://kreceo.sfo2.digitaloceanspaces.com/Froogle/google-favicon-512.png" />
     <link rel="stylesheet" href="./assets/css/style.css">
     <title><?php echo $term; ?> - Froogle</title>
 </head>
@@ -24,7 +25,7 @@
             <div class="headerContent">
                 <div class="searchContainer">
                     <a href="/">
-                        <img src="./images/froogle-logo.png" />
+                        <img src="https://kreceo.sfo2.digitaloceanspaces.com/Froogle/froogle-logo.png" />
                     </a>
                     <form action="" method="GET">
                         <input type="text" class="searchBox" name="term" value="<?php echo $_GET['term']; ?>" id="searchInput">
