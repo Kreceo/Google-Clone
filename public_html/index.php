@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="./assets/images/google-favicon-512.png" />
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Froogle</title>
 </head>
@@ -12,7 +13,7 @@
     <div class="wrapper indexPage">
         <section class="mainSection">
             <div class="logoContainer">
-                <img src="./images/froogle-logo.png" />
+                <img src="./assets/images/froogle-logo.png" />
             </div>
             <div class="searchContainer">
                 <form action="search.php" method="GET">
