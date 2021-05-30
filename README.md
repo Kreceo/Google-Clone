@@ -1,15 +1,28 @@
-# Google-Clone
+# Welcome to 
+![Image of Google clone Froogle](https://kreceo.sfo2.digitaloceanspaces.com/Froogle/froogle-logo.png)
 
-Stack used:
+---
 
+## This is a google clone project called 'Froogle'
+
+### Stack used:
 - HTML
 - CSS
 - PHP
 - Javascript
 
-Styling of the google clone matches the current version of google.
+### Working tabs:
+- All
+- Images
+- **Working on more**
 
-You project can be run very easily as all files required are bundled in this git repo.
+### Running project locally:
+- Clone github repo: (https://github.com/Kreceo/Google-Clone.git)
 
-Just pull the branch down, and run either locally on mac using the command ' php-S localhost:8080 ' in your command line from the public_html folder,
-or using mamp, xxamp etc on windows.
+- Run either locally on mac using the command ' php-S localhost:8080 ' in your command line from the public_html folder,
+or using mamp, xaamp etc on windows.
+
+---
+### Side notes:
+- Styling of the google clone matches the 2021 version of google.
+- Images are being served from my digital ocean space.
