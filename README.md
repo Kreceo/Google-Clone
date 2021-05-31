@@ -3,7 +3,7 @@
 
 ---
 
-## This is a google clone project called 'Froogle'
+## This is a google clone project called 'Froogle' ( Still undergoing work )
 
 ### Stack used:
 - HTML
